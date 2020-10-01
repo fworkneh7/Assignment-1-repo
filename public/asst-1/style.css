@@ -1,0 +1,14 @@
+/* || header layout */
+.header {
+    font: normal 18px/1.5 "Fira Sans", "Helvetica Neue", sans-serif;
+    background: #e0b744;
+    color: #fff;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.header img {
+    display: block;
+    height: 60px;
+    padding-top: 20.15px;
+  }
